@@ -1,0 +1,4 @@
+[submodule "joe9210/public"]
+	path = joe9210/public
+	url = git@github.com:joe9210/joe9210.github.io.git
+	branch = main
